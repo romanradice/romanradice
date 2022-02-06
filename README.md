@@ -6,12 +6,12 @@ I program to have fun, learn and test.
 ### Programming
 Python, C++, C#, Java
 
-### Games
-RumbleBeast, Laser Room
-
 ### Web
 HTML, CSS, JS, REACT
 
+### Games
+RumbleBeast💥 on Google Play Store\
+Laser Room⚡ on itch.io
 
 <!--
 **romanradice/romanradice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
