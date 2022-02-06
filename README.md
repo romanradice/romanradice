@@ -1,7 +1,7 @@
 # Hi I'm Roman💡🎲
 
-I enjoy coding and discovering new and exciting things \
-I program to have learn, test and fun.
+I enjoy coding and discovering new and exciting things. \
+I program to have fun, learn and test.
 
 ### Programming
 Python, C++, C#, Java
