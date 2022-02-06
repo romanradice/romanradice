@@ -10,8 +10,8 @@ Python, C++, C#, Java
 HTML, CSS, JS, REACT
 
 ### Games
-RumbleBeast💥 on Google Play Store\
-Laser Room⚡ on itch.io
+[RumbleBeast](https://play.google.com/store/apps/details?id=com.BadBrothers.RumbleGames&hl=fr&gl=US)💥 on Google Play Store\
+[Laser Room](https://romanraa.itch.io/laser-room)⚡ on itch.io
 
 <!--
 **romanradice/romanradice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
